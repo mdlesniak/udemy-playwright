@@ -1,0 +1,23 @@
+{
+  "name": "udemy-playwright",
+  "version": "1.0.0",
+  "description": "Repo for Udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdlesniak/udemy-playwright.git"
+  },
+  "author": "Michael Lesniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdlesniak/udemy-playwright/issues"
+  },
+  "homepage": "https://github.com/mdlesniak/udemy-playwright#readme",
+  "dependencies": {
+    "@playwright/test": "^1.33.0",
+    "prettier": "^2.8.8"
+  }
+}
